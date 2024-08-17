@@ -9,6 +9,9 @@ public class Koli {
 driver.close();
           driver.quit();
 
+        driver.get("ghrhuj");
+       driver.close();
+
 	}
 
 }
